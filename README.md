@@ -14,7 +14,7 @@ This repository contains a detailed statistics representation on various scenari
 <img src="./Results/Screenshot (33).png" height="300" width="600">
 
 
-<img src="./Results/Screenshot (34)" height="300" width="600">
+
 
 <img src="./Results/Screenshot (35).png" height="300" width="600">
 
