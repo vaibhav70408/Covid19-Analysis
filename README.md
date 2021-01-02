@@ -12,7 +12,7 @@ This repository contains a detailed statistics representation on various scenari
 # Results
 
 <img src="./Results/Screenshot (33).png" height="300" width="600">
-<br/>
+
 
 <img src="./Results/Screenshot (34)" height="300" width="600">
 
