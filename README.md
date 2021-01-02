@@ -7,4 +7,4 @@ This repository contains a detailed statistics representation on various scenari
 * Comparison of Numbers of Rural Hospitals in different regions
 * Comparison of Numbers of Urban Hospitals in different regions
 * State- wise Health Facilities
-* Elaborative comarison on the basis of Gov. Vs Private laboratory Testings
+* Elaborative comparison on the basis of Gov. Vs Private laboratory Testings
