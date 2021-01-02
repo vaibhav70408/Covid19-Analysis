@@ -3,7 +3,7 @@ This repository contains a detailed statistics representation on various scenari
 
 # Issues covered
 
-* Age- wise Distribition of Patients 
+* Age- wise Distribution of Patients 
 * Comparison of Numbers of Rural Hospitals in different regions
 * Comparison of Numbers of Urban Hospitals in different regions
 * State- wise Health Facilities
