@@ -13,11 +13,11 @@ This repository contains a detailed statistics representation on various scenari
 
 <img src="./Results/Screenshot (33).png" height="300" width="600">
 <br/>
-<b> (with 2 color) </b>
+
 <img src="./Results/Screenshot (34)" height="300" width="600">
-<b> (with 5 color) </b>
+
 <img src="./Results/Screenshot (35).png" height="300" width="600">
-<b> (with 5 color) </b>
+
 <img src="./Results/Screenshot (36).png" height="300" width="600">
 
 
